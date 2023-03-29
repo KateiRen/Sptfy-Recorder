@@ -1,11 +1,11 @@
-# Proof of concept Sptfy Recorder
+# Proof of Concept Sptfy Recorder
 
 ## Warning 
 Using the API in this manner might conflict with the terms of use
 
 In Germany, creating a private copy is allowed, still there might be a conflict with the Spotify terms of use.
 
-Se more [here](https://praxistipps.chip.de/musik-legal-bei-spotify-aufnehmen-alle-infos-im-ueberblick_135696)
+See more [here](https://praxistipps.chip.de/musik-legal-bei-spotify-aufnehmen-alle-infos-im-ueberblick_135696)
 
 **Use at your own risk**
 
