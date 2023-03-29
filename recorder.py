@@ -101,7 +101,7 @@ def recorder(sp, volume, samplerate):
         print(f"\nAktueller Titel: {track_name} von {track_artist} aus dem Album {track_album} ({track_duration_ms/1000:.2f} Sekunden), Coverbild: {track_image}")
         
         sp.start_playback(device_id=device_id, uris=['spotify:track:{0}'.format(track_id)])
-        track_duration_ms=3000
+        # track_duration_ms=3000
         with default_mic.recorder(samplerate=samplerate) as mic: 
             print(f"Recording startet auf {default_mic}")
             data = mic.record(numframes=int(samplerate*track_duration_ms/1000))
