@@ -17,3 +17,4 @@ This is a simple PoC to demonstrate
 - encoding the recording as MP3.
 - setting relevant MP3 tags with the title information from Spotify.
 
+This is something I wanted to try for a long time already. Whenever my kids wanted to listen to anything on their own mp3-player.
